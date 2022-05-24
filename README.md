@@ -92,3 +92,8 @@ __Voici le fichier compose.yml censé faire la connexion entre les différents d
 
 __Voici un Dockerfile__
 ![9](https://user-images.githubusercontent.com/82390685/170138653-90f1be8c-2ebc-4e75-85b8-fc4deeb7a4e5.PNG)
+
+__Mon résultat__ 
+Mon projet ne fonctionne pas, je reste bloquée au tout début au téléchargement des modules:
+
+![ERREURtelechargement](https://user-images.githubusercontent.com/82390685/170139625-19508888-5f84-43cb-b5d1-86b2252b5fdb.PNG)

@@ -57,3 +57,12 @@ __Voici le troisème fichier views.py qui charge le modèle prédit par ols et r
 ** On appelle le server précédent et on calcule l'accuracy **
 
 ![6](https://user-images.githubusercontent.com/82390685/170137972-9481e93b-394b-4db6-8657-ec4f5e935a74.PNG)
+
+__Voici les fichier requirements.txt à implémenter dans les dossiers (ils sont identiques vus que les fichiers pythons appelés nécessitent les mêmes librairies__
+![7](https://user-images.githubusercontent.com/82390685/170138385-98e1bce5-dcb2-470e-96c3-7b36600946f3.PNG)
+
+__Voici le fichier compose.yml censé faire la connexion entre les différents dossiers et lancer ainsi le ML et donc lancer les servers__
+![8](https://user-images.githubusercontent.com/82390685/170138572-a60069c9-f1e7-4811-8d10-a25b79cb037f.PNG)
+
+__Voici un Dockerfile__
+![9](https://user-images.githubusercontent.com/82390685/170138653-90f1be8c-2ebc-4e75-85b8-fc4deeb7a4e5.PNG)

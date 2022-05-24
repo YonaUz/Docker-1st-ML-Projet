@@ -7,7 +7,7 @@ Voici l'arborescence du projet:
   - Dockerfile
   - run.py (port 8000)
   - /app :
-      - __init__.py
+      - __ init __ .py (sans espace mais ici c'est nécessaire sinon ça s'écrit en bold)
       - views.py
       - requirements.txt
 
@@ -15,7 +15,7 @@ Voici l'arborescence du projet:
   - Dockerfile
   - run.py (port 7000)
   - /app :
-    - __ init __ .py (sans espace mais ici c'est nécessaire sinon ça s'écrit en bold)
+    - __ init __ .py 
     - views.py 
     - requirements.txt
 
